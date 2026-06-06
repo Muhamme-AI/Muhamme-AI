@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Muhammed Salim
 
 ### 🤖 AI Engineer | Full-Stack AI/ML Engineer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammed---ai-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-ai)
-[![GitHub](https://img.shields.io/badge/GitHub-Muhamme---AI-black?style=flat&logo=github&logoColor=white)](https://github.com/Muhamme-AI)
-[![Email](https://img.shields.io/badge/Email-Drop%20Me%20a%20Message-red?style=flat&logo=gmail&logoColor=white)](mailto:Muhammed.salim.da@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nexhost.co.uk-green?style=flat&logo=google-chrome&logoColor=white)](https://nexhost.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammed-ai) | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Muhamme-AI) | [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:Muhammed.salim.da@gmail.com) | [![Portfolio](https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome)](https://nexhost.co.uk)
 
 ---
 
