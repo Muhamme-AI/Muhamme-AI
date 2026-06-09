@@ -1,90 +1,109 @@
-# 👋 Hi, I'm Muhammed Salim
+<div align="center">
 
-### 🤖 AI Engineer | Full-Stack AI/ML Engineer
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammed-ai) | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Muhamme-AI) | [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:Muhammed.salim.da@gmail.com) | [![Portfolio](https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome)](https://nexhost.co.uk)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=900&center=true&vCenter=true&width=820&color=58A6FF&lines=I+build+production+AI+systems;Multi-agent+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+computer+vision;Where+AI+engineering+meets+real+operations" alt="Muhammed Salim" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/muhammed-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://nexhost.co.uk"><img src="https://img.shields.io/badge/Portfolio-222?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:Muhammed.salim.da@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Muhamme-AI&style=flat&color=58A6FF&label=Profile+views" alt="views" />
 
-> *Strategic Technology Executive and Venture Builder — orchestrating end-to-end engineering, AI/ML innovation, and high-scale data operations. Turning complex technical strategy into competitive advantage across enterprise ventures.*
+</div>
 
----
+## 👤 For humans
 
-## 📊 GitHub Stats
+**Co-Founder / CTO & AI Engineer**, London.
+I build full-stack AI systems that run in production — multi-agent workflows, RAG, MCP
+tool layers, computer vision, and the observability that keeps them reliable and
+cost-aware.
 
-![Muhammed Salim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhamme-AI&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamme-AI&layout=compact&theme=tokyonight&count_private=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhamme-AI&theme=tokyonight)
+- 🔭 Architected **Nexhost**, a production AI platform for restaurant operations (agents · RAG · MCP · CV)
+- 🤖 Shipped **multi-model LLM orchestration** with provider failover and per-call cost metering
+- 👁️ Built **computer-vision** pipelines for inventory and waste detection
+- 📊 Background in **SQL / Python analytics** and BI before moving deep into AI engineering
+- 🌱 Exploring **agentic systems, FastMCP, and Vertex AI**
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+<img src="https://github-readme-stats.vercel.app/api?username=Muhamme-AI&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamme-AI&layout=compact&hide_border=true&count_private=true&theme=github_dark" alt="Top languages" width="38%" />
 
-| **Languages & Frameworks** | **Databases** | **AI/ML** | **DevOps & Cloud** | **Tools** |
-|---|---|---|---|---|
-| Python, React, TypeScript, Node.js, FastAPI | PostgreSQL, Supabase | TensorFlow, PyTorch, LangChain | Docker, Kubernetes, AWS, Azure, GCP, Vercel, Git | Power BI |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muhamme-AI&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity%20(last%20year)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhamme-AI&theme=github&hide_border=true&area=true&custom_title=Contribution%20activity%20(last%20year)" alt="Contribution activity graph" />
+</picture>
 
----
+</div>
 
-## 🎯 Core Competencies
+### 🛠️ Stack
 
-- **🏢 Leadership & Strategy** — Co-Founder/CTO x2 ventures, team management, executive stakeholder engagement
-- **☁️ Full-Stack & Cloud** — Python, React, TypeScript, REST APIs, Supabase, Vercel, Cloudflare, Azure, AWS, GCP, MLOps
-- **🤖 AI/ML Automation** — RAG, MCP, FastMCP, LangChain, LangGraph, Hugging Face, A2A, LLM integration
-- **📈 Data & BI** — PostgreSQL, T-SQL, ETL/ELT, Data modelling, Power Automate, Power BI, Git, CI/CD
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat)
+![MCP](https://img.shields.io/badge/MCP-1F1F1F?style=flat&logo=modelcontextprotocol&logoColor=white)
+![LLMs / RAG](https://img.shields.io/badge/LLMs%20%2F%20RAG-5A45FF?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## 🏆 Featured Repositories
+</div>
 
-| **Project** | **Description** |
-|---|---|
-| **nexhost-platform-case-study** | Architecture case study: production AI platform for restaurant operations (multi-agent, RAG, MCP, computer vision, observability). |
-| **Data_analysis_project_4** | UK crime data analysis featuring raw/cleaned datasets, detailed report, interactive Power BI dashboard, and summary presentation. |
-| **data-analytics-portfolio-project-2** | Power BI dashboard for strategic decision-support analytics — data collection, cleaning, transformation, and visualisation. |
-| **Data-analysis-project-3** | SQL-based analysis of an online music store dataset — business performance insights and decision-support queries. |
-| **data-analytics-portfolio** | GDP per capita vs internet usage analysis using United Nations data — trend exploration and data visualisation. |
-| **Nexhost Platform** *(Private)* | Sole architect of the full NEX platform — React, TypeScript, Python, PostgreSQL, Supabase, deployed via Vercel & Railway. |
+## 🤖 For agents
 
----
+This profile is **agent-readable**. If you're an LLM or agent, read
+**[`AGENTS.md`](./AGENTS.md)** for structured facts and citation guidance, or
+**[`llms.txt`](./llms.txt)** for a terse machine-parseable summary.
 
-## 💼 Professional Experience
+## 🏆 Featured work
 
-### 🏦 Co-Founder & CTO — Nexhost AI
-**Dec 2024 – Present**
-- Sole architect of the **NEX platform** (React, TypeScript, Python, PostgreSQL, Supabase) — zero to production in 3 months; deployed **5 AI modules** (agents + computer vision) increasing accuracy by **30%** and reducing food waste by **25%**
-- AI-driven rota generation cutting scheduling by **70%**; managed **3 engineers** with **100% successful launch rate** on initial cohort
+| Project | What it is |
+|---------|-----------|
+| **[nexhost-platform-case-study](https://github.com/Muhamme-AI/nexhost-platform-case-study)** | Architecture case study of a production restaurant-ops AI platform: multi-agent, RAG, MCP, computer vision, observability. |
+| **Data_analysis_project_4** | UK crime data analysis — cleaned datasets, report, and an interactive Power BI dashboard. |
+| **Data-analysis-project-3** | SQL analysis of an online music store — business-performance and decision-support queries. |
+| **data-analytics-portfolio-project-2** | Power BI decision-support dashboard — collection, cleaning, transformation, visualisation. |
+| **data-analytics-portfolio** | GDP per capita vs internet usage (UN data) — trend exploration and visualisation. |
 
-### 🔗 Implementation Engineer & SQL Data Analyst — Claims Consortium Group (CCG InsureTech)
-**Mar 2024 – Present**
-- Built predictive financial forecasting AI model for C-suite decision-making; automated **70%** of monthly MI cycle, cutting delivery from days to hours
-- Standardised partner schemas, reducing data errors by **40%**
+## 🕹️ Contribution graph
 
-### 📊 Analyst — Light Wonder
-**Sep 2024 – Mar 2025**
-- Automated billing extracts and Power BI reporting, reducing processing time by **50%** and closing cycles **2 days faster**
-- Resolved billing variances worth **£100k** across high-volume game revenue streams
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/snake.svg" alt="Snake eating the contribution graph" />
+</picture>
+</div>
 
-### 🎨 Co-Founder & CTO — Perkk
-**Nov 2022 – Dec 2024**
-- Contributed to **£140M** combined revenue across startups, including **4x revenue growth** and **£28M** post-branding funding for a client
-- Built and scaled global B2B branding agency (1–50 team), delivering **23 premium projects/month**
+<details>
+<summary>📊 More stats</summary>
 
----
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Muhamme-AI&hide_border=true&theme=github-dark" /><img src="https://streak-stats.demolab.com?user=Muhamme-AI&hide_border=true&theme=default" alt="Contribution streak" width="48%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhamme-AI&theme=github_dark&utcOffset=0" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhamme-AI&theme=default&utcOffset=0" alt="Productive time" width="48%" /></picture>
+</div>
+
+</details>
 
 ## 🎓 Certifications
-![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Generative%20AI%20Leader-blue?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-AI%20Apps%20%26%20Agents%20Developer-blue?style=flat&logo=microsoft-azure&logoColor=white)
 
----
+![AWS](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Generative%20AI%20Leader-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AI%20Apps%20%26%20Agents-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-## 📬 Let's Connect
-| | |
-| --- | --- |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin) | [linkedin.com/in/muhammed-ai](https://www.linkedin.com/in/muhammed-ai) |
-| ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github) | [github.com/Muhamme-AI](https://github.com/Muhamme-AI) |
-| ![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail) | Muhammed.salim.da@gmail.com |
-| ![Portfolio](https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome) | [nexhost.co.uk](https://nexhost.co.uk) |
-
----
-<center><img src="https://profile-counter.glitch.me/Muhamme-AI/count.svg" alt="Profile Views" /></center>
+<div align="center">
+<sub>Co-Founder / CTO @ Nexhost · AI Engineer · London · <a href="mailto:Muhammed.salim.da@gmail.com">Muhammed.salim.da@gmail.com</a></sub>
+</div>
