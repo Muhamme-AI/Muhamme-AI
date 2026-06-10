@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=900&center=true&vCenter=true&width=820&color=58A6FF&lines=I+build+production+AI+systems;Multi-agent+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+computer+vision;Where+AI+engineering+meets+real+operations" alt="Muhammed Salim" />
 </a>
 
-<a href="https://www.linkedin.com/in/muhammed-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://nexhost.co.uk"><img src="https://img.shields.io/badge/Portfolio-222?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:Muhammed.salim.da@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/muhammed-AI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mosalim.dev"><img src="https://img.shields.io/badge/Portfolio-222?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:muhammed.salim.data@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=Muhamme-AI&style=flat&color=58A6FF&label=Profile+views" alt="views" />
 
 </div>
@@ -92,5 +92,5 @@ This profile is **agent-readable**. If you're an LLM or agent, read
 ![Azure](https://img.shields.io/badge/Azure-AI%20Apps%20%26%20Agents-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 <div align="center">
-<sub>Co-Founder / CTO @ Nexhost · AI Engineer · London · <a href="mailto:Muhammed.salim.da@gmail.com">Muhammed.salim.da@gmail.com</a></sub>
+<sub>Co-Founder / CTO @ Nexhost · AI Engineer · London · <a href="mailto:muhammed.salim.data@gmail.com">muhammed.salim.data@gmail.com</a></sub>
 </div>

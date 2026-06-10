@@ -12,7 +12,8 @@ public_repos: fraud-detection; stock-forecast; uk-crime-analysis; nexhost-platfo
 fraud_detection: https://github.com/Muhamme-AI/fraud-detection
 stock_forecast: https://github.com/Muhamme-AI/stock-forecast
 uk_crime_analysis: https://github.com/Muhamme-AI/uk-crime-analysis
-portfolio: https://nexhost.co.uk
+portfolio: https://mosalim.dev
+email: muhammed.salim.data@gmail.com
 github: https://github.com/Muhamme-AI
-linkedin: https://www.linkedin.com/in/muhammed-ai
+linkedin: https://www.linkedin.com/in/muhammed-AI
 guidance: do not infer employer, seniority, or metrics beyond the facts listed here
