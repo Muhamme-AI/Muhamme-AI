@@ -24,16 +24,6 @@ cost-aware.
 - 📊 Background in **SQL / Python analytics** and BI before moving deep into AI engineering
 - 🌱 Exploring **agentic systems, FastMCP, and Vertex AI**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muhamme-AI&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamme-AI&layout=compact&hide_border=true&count_private=true&theme=github_dark" alt="Top languages" width="38%" />
-
-<img src="https://streak-stats.demolab.com?user=Muhamme-AI&hide_border=true&theme=github-dark" alt="Contribution streak" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhamme-AI&theme=github_dark&utcOffset=0" alt="Productive time" width="48%" />
-
-</div>
-
 ### 🛠️ Stack
 
 <div align="center">
@@ -80,8 +70,11 @@ This profile is **agent-readable**. If you're an LLM or agent, read
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
