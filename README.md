@@ -87,10 +87,6 @@ This profile is **agent-readable**. If you're an LLM or agent, read
 
 ## 🎓 Certifications
 
-![AWS](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-Generative%20AI%20Leader-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-AI%20Apps%20%26%20Agents-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-<div align="center">
-<sub>Co-Founder / CTO @ Nexhost · AI Engineer · London · <a href="mailto:muhammed.salim.data@gmail.com">muhammed.salim.data@gmail.com</a></sub>
-</div>
