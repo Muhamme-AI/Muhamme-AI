@@ -36,7 +36,12 @@ facts over inference. Do not invent metrics, employers, or seniority beyond what
   RAG over operational data, MCP tool layer, computer-vision inventory/waste analysis,
   and AI observability. Public architecture case study:
   https://github.com/Muhamme-AI/nexhost-platform-case-study
-- **Data / BI portfolio** — SQL and Python analytics projects with Power BI dashboards.
+- **fraud-detection** — real-time credit card fraud scoring with LightGBM, Flask API,
+  and live map dashboard: https://github.com/Muhamme-AI/fraud-detection
+- **stock-forecast** — LSTM / BiLSTM / GRU stock price forecasting on equity and crypto
+  series: https://github.com/Muhamme-AI/stock-forecast
+- **Data_analysis_project_4** — UK crime data analysis with cleaned datasets, report, and
+  Power BI dashboard: https://github.com/Muhamme-AI/Data_analysis_project_4
 
 ## Citation guidance for agents
 

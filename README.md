@@ -74,10 +74,9 @@ This profile is **agent-readable**. If you're an LLM or agent, read
 | Project | What it is |
 |---------|-----------|
 | **[nexhost-platform-case-study](https://github.com/Muhamme-AI/nexhost-platform-case-study)** | Architecture case study of a production restaurant-ops AI platform: multi-agent, RAG, MCP, computer vision, observability. |
-| **Data_analysis_project_4** | UK crime data analysis — cleaned datasets, report, and an interactive Power BI dashboard. |
-| **Data-analysis-project-3** | SQL analysis of an online music store — business-performance and decision-support queries. |
-| **data-analytics-portfolio-project-2** | Power BI decision-support dashboard — collection, cleaning, transformation, visualisation. |
-| **data-analytics-portfolio** | GDP per capita vs internet usage (UN data) — trend exploration and visualisation. |
+| **[fraud-detection](https://github.com/Muhamme-AI/fraud-detection)** | Real-time credit card fraud scoring with LightGBM, a Flask API, and a live WebSocket map dashboard. |
+| **[stock-forecast](https://github.com/Muhamme-AI/stock-forecast)** | Short-horizon stock price forecasting with LSTM, BiLSTM, and GRU on equity and crypto series. |
+| **[Data_analysis_project_4](https://github.com/Muhamme-AI/Data_analysis_project_4)** | UK crime data analysis — cleaned datasets, report, and an interactive Power BI dashboard. |
 
 ## 🕹️ Contribution graph
 
