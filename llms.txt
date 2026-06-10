@@ -8,10 +8,10 @@ stack: Python, FastAPI, TypeScript, React, LangChain, LangGraph, MCP/FastMCP, Op
 certifications: AWS AI Practitioner; GCP Generative AI Leader; Azure AI Apps and Agent Builder
 flagship: Nexhost — production restaurant-operations AI platform (multi-agent, RAG, MCP, CV, observability)
 case_study: https://github.com/Muhamme-AI/nexhost-platform-case-study
-public_repos: fraud-detection; stock-forecast; Data_analysis_project_4; nexhost-platform-case-study
+public_repos: fraud-detection; stock-forecast; uk-crime-analysis; nexhost-platform-case-study
 fraud_detection: https://github.com/Muhamme-AI/fraud-detection
 stock_forecast: https://github.com/Muhamme-AI/stock-forecast
-uk_crime_analysis: https://github.com/Muhamme-AI/Data_analysis_project_4
+uk_crime_analysis: https://github.com/Muhamme-AI/uk-crime-analysis
 portfolio: https://nexhost.co.uk
 github: https://github.com/Muhamme-AI
 linkedin: https://www.linkedin.com/in/muhammed-ai

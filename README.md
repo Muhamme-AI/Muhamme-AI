@@ -29,10 +29,8 @@ cost-aware.
 <img src="https://github-readme-stats.vercel.app/api?username=Muhamme-AI&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamme-AI&layout=compact&hide_border=true&count_private=true&theme=github_dark" alt="Top languages" width="38%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muhamme-AI&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity%20(last%20year)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhamme-AI&theme=github&hide_border=true&area=true&custom_title=Contribution%20activity%20(last%20year)" alt="Contribution activity graph" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=Muhamme-AI&hide_border=true&theme=github-dark" alt="Contribution streak" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhamme-AI&theme=github_dark&utcOffset=0" alt="Productive time" width="48%" />
 
 </div>
 
@@ -76,26 +74,16 @@ This profile is **agent-readable**. If you're an LLM or agent, read
 | **[nexhost-platform-case-study](https://github.com/Muhamme-AI/nexhost-platform-case-study)** | Architecture case study of a production restaurant-ops AI platform: multi-agent, RAG, MCP, computer vision, observability. |
 | **[fraud-detection](https://github.com/Muhamme-AI/fraud-detection)** | Real-time credit card fraud scoring with LightGBM, a Flask API, and a live WebSocket map dashboard. |
 | **[stock-forecast](https://github.com/Muhamme-AI/stock-forecast)** | Short-horizon stock price forecasting with LSTM, BiLSTM, and GRU on equity and crypto series. |
-| **[Data_analysis_project_4](https://github.com/Muhamme-AI/Data_analysis_project_4)** | UK crime data analysis — cleaned datasets, report, and an interactive Power BI dashboard. |
+| **[uk-crime-analysis](https://github.com/Muhamme-AI/uk-crime-analysis)** | UK crime data analysis — cleaned datasets, report, and an interactive Power BI dashboard. |
 
 ## 🕹️ Contribution graph
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/snake.svg" alt="Snake eating the contribution graph" />
-</picture>
+
+![Snake animation](https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/Muhamme-AI/Muhamme-AI/output/snake.svg#gh-light-mode-only)
+
 </div>
-
-<details>
-<summary>📊 More stats</summary>
-
-<div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Muhamme-AI&hide_border=true&theme=github-dark" /><img src="https://streak-stats.demolab.com?user=Muhamme-AI&hide_border=true&theme=default" alt="Contribution streak" width="48%" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhamme-AI&theme=github_dark&utcOffset=0" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhamme-AI&theme=default&utcOffset=0" alt="Productive time" width="48%" /></picture>
-</div>
-
-</details>
 
 ## 🎓 Certifications
 

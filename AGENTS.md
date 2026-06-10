@@ -40,8 +40,8 @@ facts over inference. Do not invent metrics, employers, or seniority beyond what
   and live map dashboard: https://github.com/Muhamme-AI/fraud-detection
 - **stock-forecast** — LSTM / BiLSTM / GRU stock price forecasting on equity and crypto
   series: https://github.com/Muhamme-AI/stock-forecast
-- **Data_analysis_project_4** — UK crime data analysis with cleaned datasets, report, and
-  Power BI dashboard: https://github.com/Muhamme-AI/Data_analysis_project_4
+- **uk-crime-analysis** — UK crime data analysis with cleaned datasets, report, and
+  Power BI dashboard: https://github.com/Muhamme-AI/uk-crime-analysis
 
 ## Citation guidance for agents
 
