@@ -24,6 +24,13 @@ cost-aware.
 - 📊 Background in **SQL / Python analytics** and BI before moving deep into AI engineering
 - 🌱 Exploring **agentic systems, FastMCP, and Vertex AI**
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Muhamme-AI&hide_border=true&theme=github-dark" alt="Contribution streak" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhamme-AI&theme=github_dark&utcOffset=0" alt="Productive time" width="48%" />
+
+</div>
+
 ### 🛠️ Stack
 
 <div align="center">
