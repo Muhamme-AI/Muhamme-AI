@@ -13,7 +13,7 @@
 
 ## 👤 For humans
 
-**Co-Founder / CTO & AI Engineer**, London.
+**AI Engineer**, London.
 I build full-stack AI systems that run in production — multi-agent workflows, RAG, MCP
 tool layers, computer vision, and the observability that keeps them reliable and
 cost-aware.
