@@ -68,10 +68,9 @@ This profile is **agent-readable**. If you're an LLM or agent, read
 
 | Project | What it is |
 |---------|-----------|
-| **[nexhost-platform-case-study](https://github.com/Muhamme-AI/nexhost-platform-case-study)** | Architecture case study of a production restaurant-ops AI platform: multi-agent, RAG, MCP, computer vision, observability. |
+| **[nexhost-platform-architecture](https://github.com/Muhamme-AI/nexhost-platform-case-study)** | Architecture deep-dive on the Nexhost restaurant-ops AI platform: multi-agent workflows, RAG, MCP, computer vision, observability. |
 | **[fraud-detection](https://github.com/Muhamme-AI/fraud-detection)** | Real-time credit card fraud scoring with LightGBM, a Flask API, and a live WebSocket map dashboard. |
 | **[stock-forecast](https://github.com/Muhamme-AI/stock-forecast)** | Short-horizon stock price forecasting with LSTM, BiLSTM, and GRU on equity and crypto series. |
-| **[uk-crime-analysis](https://github.com/Muhamme-AI/uk-crime-analysis)** | UK crime data analysis — cleaned datasets, report, and an interactive Power BI dashboard. |
 
 ## 🕹️ Contribution graph
 
