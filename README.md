@@ -27,7 +27,6 @@ cost-aware.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Muhamme-AI&hide_border=true&theme=github-dark" alt="Contribution streak" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhamme-AI&theme=github_dark&utcOffset=0" alt="Productive time" width="48%" />
 
 </div>
 
