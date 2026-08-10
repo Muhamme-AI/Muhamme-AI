@@ -21,7 +21,6 @@ cost-aware.
 - 🔭 Architected **Nexhost**, a production AI platform for restaurant operations (agents · RAG · MCP · CV)
 - 🤖 Shipped **multi-model LLM orchestration** with provider failover and per-call cost metering
 - 👁️ Built **computer-vision** pipelines for inventory and waste detection
-- 📊 Background in **SQL / Python analytics** and BI before moving deep into AI engineering
 - 🌱 Exploring **agentic systems, FastMCP, and Vertex AI**
 
 
